@@ -1,4 +1,4 @@
-<h1 align='center'>Cocacola-Landing-Page</h1>
+<h1 align='center'>Cocacola Landing Page</h1>
 
 A website for Cocacola-Landing-Page created with HTML & CSS.
 
