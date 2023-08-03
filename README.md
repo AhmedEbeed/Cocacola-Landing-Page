@@ -11,9 +11,9 @@ A website for Cocacola-Landing-Page created with HTML & CSS.
 👁 [Click here](https://cocacola--ahmedebeed.repl.co) to check out the live demo!
 
 ## Technologies Used
-* <img src='img/html.svg' alt='HTML' valign='middle'>
-* <img src='img/css.svg' alt='CSS' valign='middle'> 
-* <img src='img/js.svg' alt='js' valign='middle'> 
+* <img src='https://github.com/AhmedEbeed/Cocacola-Landing-Page/blob/eed187aecdc6df77a31ec0f19d8630b6dea2059b/html.svg' alt='HTML' valign='middle'>
+* <img src='https://github.com/AhmedEbeed/Cocacola-Landing-Page/blob/eed187aecdc6df77a31ec0f19d8630b6dea2059b/css.svg' alt='CSS' valign='middle'> 
+* <img src='https://github.com/AhmedEbeed/Cocacola-Landing-Page/blob/eed187aecdc6df77a31ec0f19d8630b6dea2059b/js.svg' alt='js' valign='middle'> 
 
 
 ## Credits
